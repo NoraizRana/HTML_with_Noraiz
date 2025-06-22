@@ -1,0 +1,18 @@
+
+<!doctype html>
+<html>
+<body>
+
+<h1 align="center">Diary</h1>
+<hr size=3 color="black">
+<p align="center" style="color:red;">
+A diary is a record with discrete entries arranged by date reporting on what has happened over 
+the course of a day or other period. <br>
+A personal diary may include a person's experiences, thoughts, 
+and/or feelings, excluding comments on current events outside the writer's direct experience.
+</p>
+<img src="pic/diary.jpg" style="width:400px;height:400px;">
+
+
+</body>
+</html>
